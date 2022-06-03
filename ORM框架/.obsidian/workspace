@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "95acb27f1eb71a57",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc529e5fa06bbafc",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9dd722ae12c38967",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba957b61922f998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93aedf87cb82e968",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f86f56b0b0b04b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78b38d294d01f66f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f243a3594b46af08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18641d5df9100ba6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dc529e5fa06bbafc",
+  "lastOpenFiles": [
+    "1.MyBatis.md"
+  ]
+}
